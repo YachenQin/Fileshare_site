@@ -1,0 +1,94 @@
+.button1{
+    margin: 0px auto;
+    width: 300px;
+    height: 100px;
+    }
+
+.uploadfile{
+    width: 420px;
+    height: 40px;
+    border: 3px;
+    background-color:#3dd2dd;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.3) 2px 3px 2px;
+    font-style: italic;
+    font-size: 30px;
+    opacity: 0.5;
+}
+.upload3{
+    color: #3dd2dd;
+    color-rendering: #3dd2dd;
+    outline-color: #3dd2dd;
+    text-decoration-color: #3dd2dd;
+}
+.position1{
+    width: 150px;
+    height: 40px;
+    padding-left: 90px;
+}
+.position2{
+    position: absolute;
+    left: 32%;
+}
+.position3{
+    width: 150px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 120px;
+    height: 60px;
+    font-size: 50px;
+}
+.deleteAndView{
+    width: 150px;
+    height: 40px;
+    border-top: 200px;
+    margin: 0px auto;
+    width: 600px;
+    height: 300px;
+}
+.open{
+    width: 420px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 80px;
+    border: 5px;
+    background-color:#3dd2dd;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.3) 2px 3px 2px;
+    font-style: italic;
+    font-size: 30px;
+    opacity: 0.5;
+}
+.delete{
+    width: 420px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 80px;
+    border: 5px;
+    background-color:#3dd2dd;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.3) 2px 3px 2px;
+    font-style: italic;
+    font-size: 30px;
+    opacity: 0.5;
+}
+
+.position6{
+    margin-top: 40px;
+    position: absolute;
+    left: 32%;
+}
+
+.font{
+    padding-left: 80px;
+    font-size:20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.filefont{
+    padding-left: 100px;
+    font-size:30px;
+    font-style: Calibri;
+    text-align: center;
+}
